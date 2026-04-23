@@ -3,7 +3,7 @@
 A high-performance demographic query engine built with FastAPI, Python, and Supabase, hosted on Vercel.
 
 ## Public API Base URL
-`https://your-vercel-deployment-url.vercel.app` *(Remember to update this!)*
+`https://intelligence-query-engine-three.vercel.app/` 
 
 ## Endpoints
 

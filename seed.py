@@ -59,3 +59,4 @@ def seed_database(file_path: str):
 if __name__ == "__main__":
     # Updated to match the exact name of the file you uploaded
     seed_database("seed_profiles.json")
+    
